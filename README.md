@@ -1,6 +1,6 @@
 # Coursera Algorithmic Toolbox
 
-This repository contains solutions and study materials for the "Coursera - Algorithmic Toolbox" course offered by Stanford University.
+This repository contains solutions and study materials for the "Coursera - Algorithmic Toolbox" course offered by University of California San Diego.
 
 ## About the Course
 
